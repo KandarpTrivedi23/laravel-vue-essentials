@@ -118,10 +118,4 @@ In **Part 2**, we’ll enable push notifications and further refine the PWA setu
 
 ---
 
-### 💻 Sample Code Repository
-
-You can find the full code for this tutorial in the [GitHub Repository](https://github.com/your-repo-link).
-
----
-
 Thanks for following along! Let me know your thoughts or questions in the comments. 💬
