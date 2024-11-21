@@ -23,9 +23,9 @@ The Laravel-Vue Essentials series covers the following topics:
 
 5. **Vue Composition API**  
    - Simplifying complex component logic using Vue Composition API.  
-   - Conceptual discussion in [LinkedIn](www.linkedin.com/in/kandarp-trivedi-62a3112a6/)  
+   - Conceptual discussion in [LinkedIn](https://www.linkedin.com/in/kandarp-trivedi-62a3112a6/)  
 
-…and more! Check the [LinkedIn series](www.linkedin.com/in/kandarp-trivedi-62a3112a6/) for the complete list.  
+…and more! Check the [LinkedIn series](https://www.linkedin.com/in/kandarp-trivedi-62a3112a6/) for the complete list.  
 
 ---
 ## 💻 Getting Started  
@@ -89,7 +89,7 @@ The Laravel-Vue Essentials series covers the following topics:
 
 ## 📖 Follow the Series  
 
-I am also sharing my learning journey on [LinkedIn](www.linkedin.com/in/kandarp-trivedi-62a3112a6/).  
+I am also sharing my learning journey on [LinkedIn](https://www.linkedin.com/in/kandarp-trivedi-62a3112a6/).  
 
 ---
 
