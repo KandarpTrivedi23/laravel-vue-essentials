@@ -1,4 +1,7 @@
+# Deploying Vue.js + Laravel Applications
+
 Deployment bridges development to production. Here’s a guide to deploying your Vue.js + Laravel application with efficiency and reliability.  
+
 ---
 
 ## 1️⃣ Preparing Laravel for Production  
