@@ -3,7 +3,7 @@
 
 Welcome to the **Laravel-Vue Essentials** GitHub repository! 🎉  
 
-This repository complements my LinkedIn series [Laravel-Vue Essentials](www.linkedin.com/in/kandarp-trivedi-62a3112a6/) (check my LinkedIn profile for conceptual insights). It serves as a hands-on resource for developers looking to master the integration and usage of **Laravel** and **Vue.js** together effectively.  
+This repository complements my LinkedIn series [Laravel-Vue Essentials](https://www.linkedin.com/in/kandarp-trivedi-62a3112a6/) (check my LinkedIn profile for conceptual insights). It serves as a hands-on resource for developers looking to master the integration and usage of **Laravel** and **Vue.js** together effectively.  
 
 ## 🚀 Series Overview  
 
